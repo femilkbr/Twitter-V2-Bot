@@ -1,0 +1,31 @@
+{
+  "name": "random-item-in-array",
+  "version": "1.0.0",
+  "description": "returns a random item in an Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahdinosaur/random-item-in-array.git"
+  },
+  "keywords": [
+    "array",
+    "item",
+    "random"
+  ],
+  "author": "ahdinosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/random-item-in-array/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/random-item-in-array",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "terminal-bar": "0.0.3"
+  },
+  "dependencies": {
+    "random-number-in-range": "^1.0.0"
+  }
+}
